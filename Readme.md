@@ -30,9 +30,9 @@ I am an **Education Staff** at [**SDN 03 IX Koto**](#) in **Solok City, Indonesi
 ---
 
 ## 📬 Let's Connect
-🌍 **Website**: [idilputra.my.if](http://idilputra.my.if)  
-📧 **Email**: [Your Email Here]  
-🏫 **Workplace**: **SDN 03 IX Koto**  
-💼 **LinkedIn**: [Your LinkedIn Here]  
+🌍 **Website**: [idilputra.my.if](http://idilputra.my.id)  
+📧 **Email**: [idilputra.com@gmail.com]  
+🏫 **Workplace**: **SMPN 4 KOTA SOLOK **  
+💼 **LinkedIn**: [https://www.linkedin.com/in/idil-putra-693311245]  
 
 💡 *Let's collaborate on exciting projects and create impactful digital experiences!* ✨
