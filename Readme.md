@@ -46,14 +46,14 @@ I am an **Education Staff** at [**SMPN 4 Kota Solok**](#) in **Solok City, Indon
 
 # 🚀 Hi, I'm Idil Putra  
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,education)  
+![Profile Banner](https://idilputra.my.id/assets/favicon.ico)  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Educator+%7C+Web+Developer+%7C+Tech+Enthusiast;Passionate+about+Digital+Education" alt="Typing SVG" />
 </p>
 
 ## 🎯 About Me
-I am an **Education Staff** at [**SDN 03 IX Koto**](#) in **Solok City, Indonesia**, and a **Google Certified Educator (Level 2)**. Passionate about integrating **technology in education**, I have been actively using **Google Workspace for Education** to optimize learning experiences.  
+I am an **Education Staff** at [**SMPN 4 Kota Solok**](#) in **Solok City, Indonesia**, and a **Google Certified Educator (Level 2)**. Passionate about integrating **technology in education**, I have been actively using **Google Workspace for Education** to optimize learning experiences.  
 
 ---
 
@@ -92,9 +92,10 @@ I am an **Education Staff** at [**SDN 03 IX Koto**](#) in **Solok City, Indonesi
 ---
 
 ## 📬 Let's Connect
-🌍 **Website**: [idilputra.my.if](http://idilputra.my.if)  
-📧 **Email**: [Your Email Here]  
-🏫 **Workplace**: **SDN 03 IX Koto**  
-💼 **LinkedIn**: [Your LinkedIn Here]  
+🌍 **Website**: [idilputra.my.if](http://idilputra.my.id)  
+📧 **Email**: [idilputra.com@gmail.com]  
+🏫 **Workplace**: **SMPN 4 KOTA SOLOK**  
+💼 **LinkedIn**: [https://www.linkedin.com/in/idil-putra-693311245]  
+
 
 💡 *Let's collaborate on exciting projects and create impactful digital experiences!* ✨
