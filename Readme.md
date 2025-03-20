@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Idil Putra  
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,education)  
+![Profile Banner](http://avatars.githubusercontent.com/u/94298940?v=4)  
 
 ## 🎯 About Me
 I am an **Education Staff** at [**SDN 03 IX Koto**](#) in **Solok City, Indonesia**, and a **Google Certified Educator (Level 2)**. Passionate about integrating **technology in education**, I have been actively using **Google Workspace for Education** to optimize learning experiences.  
