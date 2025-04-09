@@ -3,7 +3,7 @@
 ![Profile Banner](https://idilputra.my.id/assets/favicon.ico)  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Educator+%7C+Web+Developer+%7C+Tech+Enthusiast;Passionate+about+Digital+Education" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Educator+%7C+Web+Developer+%7C+Tech+Enthusiast;Passionate+about+Digital+Education" alt="Typing SVG" />
 </p>
 
 ## 🎯 About Me
