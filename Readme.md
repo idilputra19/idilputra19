@@ -46,7 +46,7 @@ I am an **Education Staff** at [**SMPN 4 Kota Solok**](#) in **Solok City, Indon
 ---
 
 ## 📬 Let's Connect
-🌍 **Website**: [idilputra.my.if](http://idilputra.my.id)  
+🌍 **Website**: [idilputra.my.id](http://idilputra.my.id)  
 📧 **Email**: [idilputra.com@gmail.com]  
 🏫 **Workplace**: **SMPN 4 KOTA SOLOK**  
 💼 **LinkedIn**: [https://www.linkedin.com/in/idil-putra-693311245]  
